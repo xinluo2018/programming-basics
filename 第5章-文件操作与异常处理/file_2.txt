@@ -1,3 +1,2 @@
-Hello, world!
-This is a new file.
+This is a sentence using "a" mode.
 This is a sentence using "a" mode.
