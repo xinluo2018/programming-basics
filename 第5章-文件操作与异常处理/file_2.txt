@@ -1,2 +1,6 @@
-This is a sentence using "a" mode.
-This is a sentence using "a" mode.
+name: zhang3
+age: 18 
+hometown: kunming 
+
+
+

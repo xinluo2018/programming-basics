@@ -1,3 +1,6 @@
-date: 2025.9.1
-place: yunnan university
-people: students 
+name: zhang3
+age: 18 
+hometown: kunming 
+
+
+
